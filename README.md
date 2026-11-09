@@ -4,7 +4,7 @@
 
 **Day 1:** Mon, Nov 9, 2026 · **Day 90:** Sat, Feb 6, 2027
 **Training:** DevOps Engineering, TS Academy (Aurora Cohort)
-**Follow along:** X: [@your-handle] · LinkedIn: [your profile URL] · Instagram: [@your-handle]
+**Follow along:** X: [@wunderfashy] · LinkedIn: [https://www.linkedin.com/in/darlington-iroegbu-87b836293/] 
 
 ---
 
@@ -38,7 +38,7 @@ Planned from my class timetable; I adjust as I go.
 
 | Week | Dates | Planned focus | Status |
 |---|---|---|---|
-| 1 | Nov 9 - 15 | Intro, setup, DevOps basics, Linux basics | ⬜ |
+| 1 | Nov 9 - 15 | Intro, setup, DevOps basics, Linux basics | 🟡 |
 | 2 | Nov 16 - 22 | Linux command line | ⬜ |
 | 3 | Nov 23 - 29 | Networking and Bash | ⬜ |
 | 4 | Nov 30 - Dec 6 | Bash scripting and Git | ⬜ |
@@ -82,7 +82,7 @@ scripts/    small automation scripts I write
 
 ## Security rules for this repo
 
-This repo is public, so I never commit:
+This repo is public, so I would never commit:
 - access keys, tokens, passwords, or `.env` files
 - Terraform state files or `*.tfvars` with real values
 - AWS account IDs or public IP addresses (I blur or replace them in screenshots)

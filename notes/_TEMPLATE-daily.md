@@ -27,5 +27,5 @@ Screenshot in `docs/images/`, a link to a commit, or a link to the lab folder.
 
 ## Posts
 - X: [link]
-- LinkedIn: [link]
-- Instagram: [link]
+- LinkedIn: [https://www.linkedin.com/in/darlington-iroegbu-87b836293/]
+ 
