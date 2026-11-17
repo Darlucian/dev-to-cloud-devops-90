@@ -1,6 +1,6 @@
 # Resources
 
-What helped me learn, with a short note on why.
+What helped me learn.
 
 ## Roadmap
 - [roadmap.sh/devops](https://roadmap.sh/devops): visual checklist of the whole field.

@@ -38,8 +38,8 @@ Planned from my class timetable; I adjust as I go.
 
 | Week | Dates | Planned focus | Status |
 |---|---|---|---|
-| 1 | Nov 9 - 15 | Intro, setup, DevOps basics, Linux basics | 🟡 |
-| 2 | Nov 16 - 22 | Linux command line | ⬜ |
+| 1 | Nov 9 - 15 | Intro, setup, DevOps basics, Linux basics | ✅ |
+| 2 | Nov 16 - 22 | Linux command line | 🟡 |
 | 3 | Nov 23 - 29 | Networking and Bash | ⬜ |
 | 4 | Nov 30 - Dec 6 | Bash scripting and Git | ⬜ |
 | 5 | Dec 7 - 13 | Docker | ⬜ |
